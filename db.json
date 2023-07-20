@@ -1,0 +1,24 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "title": "Premier article",
+      "content": "Contenu de l'article 1"
+    },
+    {
+      "id": 2,
+      "title": "Deuxième article",
+      "content": "Contenu de l'article 2"
+    },
+    {
+      "id": 3,
+      "title": "Troisième article",
+      "content": "Contenu de l'article 3"
+    },
+    {
+      "title": "petit pain au lait ",
+      "content": "c bon ! je dois faire plus de texte \n",
+      "id": 4
+    }
+  ]
+}
